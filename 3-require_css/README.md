@@ -1,1 +1,1 @@
-`npm install css-loader`
+`npm install css-loader style-loader`
